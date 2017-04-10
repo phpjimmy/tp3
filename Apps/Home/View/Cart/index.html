@@ -1,0 +1,39 @@
+<script src="__JS__/jquery.min.js"></script>
+
+<form action="{:U('Cart/submitAll')}" method="POST">
+    <foreach name='list' item='vo'>
+        <input type='hidden' name='ids[]' value='{$vo[id]}'>   订单id 
+	<input type='hidden' name='nums[]' value='{$vo[goodsnum]}'>   商品数量 
+	<input type='hidden' name='stroenums[]' value='{$vo[stroenum]}'>  库存量 
+	<input type='hidden' name='salenums[]' value='{$vo[salenum]}'>  销售量 
+	<input type='hidden' name='prices[]' value='{$vo[price]}'>    商品价格 
+	<input type='hidden' name='goodsids[]' value='{$vo[goodsid]}'>  商品id 
+    </foreach>
+    
+    <li>地址:<input type="text" name="addr" placeholder="请输入地址"/></li>
+    <li>备注:<input type="text" name="note" placeholder="请输入备注"/></li>
+    <li><button>提交所有</button></li>
+</form>
+
+<foreach name='list' item='vo'>
+    <li>
+        <input type='checkbox' />{$vo.name}
+        <a href="{:U('Order/showcartinfo?cartid='.$vo['id'])}">结算</a>
+    </li>
+</foreach>
+
+<a href=''>批量结算</a>
+
+
+<foreach name='list' item='vo'>
+    <li>
+        {$vo.name}
+        <a href="{:U('Order/showcartinfo?cartid='.$vo['id'])}">结算</a>
+    </li>
+</foreach>
+
+
+ 
+
+
+

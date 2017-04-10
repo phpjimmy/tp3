@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+    <head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>标题</title>
+
+        <link href="__CSS__/bootstrap.min.css" rel="stylesheet">
+        <script src="__JS__/jquery.min.js"></script>
+        <script src="__JS__/bootstrap.min.js"></script>
+
+        <!--左侧菜单的脚本-->
+        <script src="__JS__/metisMenu.min.js"></script>
+        <script src="__JS__/custom.js"></script>
+
+        <!--弹出框的样式-->
+    </head>
+
+    <body>
+	<!--最底层的大容器(1行:导航头 2行:左侧菜单+内容)-->
+	<!--底层容器-->
+
+	<!--头部导航-->
+	 <div class="row">
+            <block name="header"> 
+                <include file="Base/header" />
+            </block>
+         </div>
+
+
+        <div class="container-fluid">
+                <div class="row">		<!--左侧菜单-->
+                    <block name="menu"> 
+                        <include file="Base/menu" /> 
+                    </block>
+
+                    <!--内容-->
+                    <div class="col-sm-8 col-md-10 sidebar">
+                        <block name="main">
+                            <include file="Base/list" /> 
+                        </block>
+                    </div>
+                </div>
+
+                <!--底部-->
+                <div class="row">
+                    <block name="footer">
+                        <include file="Base/footer" />
+                    </block>
+                </div>	
+        </div>
+        
+    </body>
+</html>

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>确认收货</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        
+        <ul style="list-style-type: none">
+            <li>名称:{$info['name']}</li>
+            <!--<li>订单id:{$info['orderid']}</li>-->
+            <li>价格:{$info['price']}</li>
+            <li>商品数量:{$info['goodsnum']}</li>
+            <li>订单金额:{$info['ordermoney']}</li>
+            <li>地址:{$info['addr']}</li>
+            <li><a href="{:U('Order/doqianshou?orderid='.$info['orderid'])}">确认收货</a></li>
+        </ul>
+        
+    </body>
+</html>

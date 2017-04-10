@@ -1,0 +1,90 @@
+ <!--ajax请求get方式-->
+
+<foreach name="list" item="vo" >   
+    <li>
+        {$vo[name]} 
+        <button onclick="add_to_cart('{$vo[id]}')">加入购物车</button>
+    </li><br>
+</foreach>
+
+<script>
+    function add_to_cart(goodsid){
+         // 判断有没有登录  获取userinfo -> window.location.href=''
+	// {$Think.session.userinfo}   {:U('Login/index?src=3')}
+	// 登录
+        
+ // 调试思路 
+// 开发步骤  1 写模版显示: 确保这一步没问题 2:模版数据提交 url 数据提过去  3:数据取到  4:处理 保证处理成功 ,有sql,sql 出错  TP给出致命错误   sql 返回给 控制器  6:返回给ajax 7:ajax 打印
+
+        // ajax 请求 -> URL (CartController/addcart)
+        // 数据  get  goodsid=goodsid&userid=?&goodsnum=?
+        // 处理结果 
+        var goods = '?goodsid='+goodsid;
+        var userid = "&userid="+"{$Think.session.userinfo.id}";
+        var goodsnum ='&goodsnum='+1;  //实际中用加减控件通过dom访问到节点,找出商品数量,拼接url中
+        
+        var urlString = goods+userid+goodsnum;
+        console.log(urlString);
+        
+        var url = "{:U('Cart/addcart')}"+urlString;
+        console.log(url);
+        
+        $.post(url,function(data){
+             // 对返回的数据做处理
+            if(data){
+                alert('成功加入购物车');
+            }else{
+                alert(data);
+            }
+        })
+        
+   }
+</script>
+
+
+
+
+
+
+ <!--ajax请求post方式-->
+<script src="__JS__/jquery.min.js"></script>
+
+<foreach name='list' item='vo'>
+    <form id='goods{$vo[id]}'>
+	<input type='hidden' name='goodsid' value='{$vo[id]}'>
+	<input type='hidden' name='goodsnum' value='1'>
+	<input type='hidden' name='userid' value='{$Think.session.userinfo.id}'>
+    </form>
+    
+    <li>
+        {$vo[name]}
+        <button onclick='add_to_cart("{$addcart_url}","goods{$vo[id]}")'>加入购物车</button>
+    </li> 
+    
+</foreach>
+
+
+<script>
+    function add_to_cart(url,formid) {
+         // 判断有没有登录  获取userinfo -> window.location.href=''
+	// {$Think.session.userinfo}   {:U('Login/index?src=3')}
+	// 登录
+	formid = '#'+formid;
+          // 调试思路 
+        // 开发步骤  1 写模版显示: 确保这一步没问题 2:模版数据提交 url 数据提过去  3:数据取到  4:处理 保证处理成功 ,有sql,sql 出错  TP给出致命错误   sql 返回给 控制器  6:返回给ajax 7:ajax 打印
+
+
+        // ajax 请求 -> URL (CartController/addcart)
+        // 数据  get/post  goodsid=goodsid&userid=?&goodsnum=?
+        // 处理结果
+        $.post(url,$(formid).serialize(),function (data) {
+            // 对返回的数据做处理
+            if(data){
+                alert('加入购物车成功');
+            }else{
+                alert(data);
+            }
+        })
+
+    }
+</script>

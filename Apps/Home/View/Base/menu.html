@@ -1,0 +1,73 @@
+<!--<div class="col-sm-3 col-md-2 sidebar">
+    <ul class="nav nav-sidebar">
+
+	<foreach name="menu_list" item="vo" >
+	    {$vo.url}
+	    {:U($vo[url])}
+	    {$vo.name}
+	    <li><a href='{:U($vo[url])}'>{$vo.name}</a></li>
+	</foreach>
+
+    </ul>
+</div>-->
+
+<div class="navbar-default sidebar col-sm-3 col-md-2" role="navigation">
+    <div class="sidebar-nav navbar-collapse">
+	<ul class="nav" id="side-menu">
+<!--	    <li>
+		<a href="{:U('Index/index')}"><i class="fa fa-dashboard fa-fw nav_icon"></i>管理后台</a>
+	    </li> -->
+            
+	    <li>
+		<a href="{:U('Goods/index/')}"><i class="fa fa-laptop nav_icon"></i>商品<span class="fa arrow"></span></a>
+		<ul class="nav nav-second-level">
+                    <li><a href="{:U('Goods/index')}">商品首页</a></li>
+		    <li><a href="{:U('Goods/goodsList')}">商品列表</a></li>
+		    <li><a href="{:U('Goods/search')}">商品搜索</a></li>
+                    <li><a href="{:U('Goods/add')}">商品添加</a></li>
+		</ul>
+	    </li>
+           
+	    <li>
+		<a href="{:U('Login/index')}"><i class="fa fa-indent nav_icon"></i>用户<span class="fa arrow"></span></a>
+		<ul class="nav nav-second-level">
+		    <li><a href="{:U('Login/index')}">用户登录</a></li>
+		</ul>
+	    </li>
+            
+<!--            <li>
+		<a href="{:U('Shop/index')}"><i class="fa fa-indent nav_icon"></i>商家管理<span class="fa arrow"></span></a>
+		<ul class="nav nav-second-level">
+		    <li><a href="{:U('Shop/index')}">商家列表</a></li>
+		</ul>
+		 /.nav-second-level 
+	    </li>-->
+            
+	    <li>
+		<a href="{:U('Order/index')}"><i class="fa fa-envelope nav_icon"></i>订单<span class="fa arrow"></span></a>
+		<ul class="nav nav-second-level">
+		    <li><a href="{:U('Order/index')}" style="font:2px">订单列表</a></li>
+		</ul>
+		<!-- /.nav-second-level -->
+	    </li>
+            
+             <li>
+		<a href="{:U('Cart/index')}"><i class="fa fa-envelope nav_icon"></i>购物车<span class="fa arrow"></span></a>
+		<ul class="nav nav-second-level">
+		    <li><a href="{:U('Cart/index')}" style="font:2px">购物车列表</a></li>
+		</ul>
+	    </li>
+            
+<!--	    <li>
+		<a href="#"><i class="fa fa-flask nav_icon"></i>平台管理</a>
+	    </li>
+            
+            <li>
+		<a href="#"><i class="fa fa-flask nav_icon"></i>统计管理</a>
+	    </li>
+	    -->
+            
+	</ul>
+        
+    </div>
+</div>

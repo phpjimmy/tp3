@@ -1,0 +1,36 @@
+<extend name="Base/base" />
+ <block name="menu"> 
+      <include file="Index/menu" /> 
+ </block>
+
+       <block name="main"> 
+            <a href='{:U($back_url)}' style="float:left">back</a>
+
+            <table class="table" >
+                    <caption style="font-size:38px">栏目列表</caption>
+                    <thead>
+                        <tr>
+                            <th>栏目id</th>
+                            <th>栏目名称</th>
+                            <th>状态</th>
+                            <th>详情</th>
+                            <th>添加</th>
+                            <th>修改</th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                    <foreach name='list' item='info'>
+                        <tr>
+                            <td>{$info[channelid]}</td>
+                            <td>{$info[channelname]}</td>
+                            <td>{$info[status]}</td>
+                            <td><a href="{:U($list_info_url,'channelid='.$info[channelid])}">详情</a></td>
+                            <td><a href="{:U($list_add_url,'channelid='.$info[channelid])}">添加</a></td>
+                            <td><a href="{:U($list_modify_url,'channelid='.$info[channelid])}">修改</a></td>
+                        </tr>
+                    </foreach>
+                    </tbody>
+
+              </table>
+       </block>

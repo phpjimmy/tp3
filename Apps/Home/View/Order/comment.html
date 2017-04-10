@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>评价</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+<!--        <php>echo '很棒的鞋子，很好的服务，谢谢!';</php>
+        <a href="{:U('Ord/docomment?orderid='.$info['id'])}">提交评价</a>-->
+
+
+          <form action="{:U('Order/docomment?orderid='.$info['id'])}" method="POST">
+              <input type='text'/>
+              <input type='submit' value='评价' />
+          </form>
+    </body>
+</html>

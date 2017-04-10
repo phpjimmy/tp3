@@ -1,0 +1,97 @@
+<extend name="Base/base" />
+
+<block name="main">
+
+    <table class="table" >
+        <caption style="font-size:38px">订单列表</caption>
+        <thead>
+            <tr>
+                <th>id</th>
+                <th>备注</th>
+                <th>订单状态</th>
+                <th>详情</th>
+                <th>操作</th>
+                <th>取消订单</th>
+                                    <!--<th>申请退款</th>-->
+            </tr>
+        </thead>
+
+        <tbody>
+        <foreach name='list' item='info'>
+            <tr>
+                <td>{$info[id]}</td>
+                <td>{$info[note]}</td>
+                <td>
+                    <switch name="info.orderstatus">   
+                    <case value="0">0待支付</case>    
+                    <case value="1">1未发货</case> 
+                    <case value="2">2待签收</case>
+                    <case value="3">3待评价</case> 
+                    <case value="4">4完成</case> 
+                    <case value="11">11付款超时</case> 
+                    <case value="12">12已取消</case> 
+                    <default />default
+                    </switch>
+                </td>
+                <td><a href='{:U($list_info_url,'id='.$info[id])}'>订单详情</a></td>
+                <td>
+                    <button onclick="order_cz('{$info.id}', '{$info.orderstatus}')"> 
+
+                        <switch name="info.orderstatus">   
+                            <case value="0">0去支付</case>    
+                            <case value="1">1提醒商家发货</case> 
+                            <case value="2">2确认收货</case>
+                            <case value="3">3评价</case> 
+                            <default />default
+                        </switch>
+                    </button>
+                </td>
+                 <td><a href='{:U($list_delete_url,'id='.$info[id])}'>取消订单</a></td>
+                 <!--<td><a href='{:U($list_refund_url,'id='.$info[id])}'>申请退款</a></td>-->
+            </tr>
+        </foreach>
+        </tbody>
+
+    </table>
+    <div id="tp_page">{$show_page}</div>
+
+    <script>
+        function order_cz(orderid, orderstatus) {
+            console.log('订单操作,orderid=' + orderid + ',orderstatus=' + orderstatus);
+            //    根据订单状态 ->流程转发,纷发
+            switch (orderstatus) {
+                case '0':
+                    //	alert('支付');
+                    // 跳转的,用U生成URL,
+                    var url = "{:U('Order/pay')}";
+                    url += '?orderid=' + orderid;
+                    console.log(url);
+                    window.location.href = url;
+                    break;
+                case '1':
+//                    alert('提醒');
+                    var url = "{:U('Order/remind')}";
+                    url += '?orderid=' + orderid;
+                    console.log(url);
+                    window.location.href = url;
+                    break;
+                case '2':
+//                        alert('签收');
+                    var url = "{:U('Order/qianshou')}";
+                    url += '?orderid=' + orderid;
+                    console.log(url);
+                    window.location.href = url;
+                    break;
+                case '3':
+                    //  alert('评价');
+                    var url = "{:U('Order/comment')}";
+                    url += '?orderid=' + orderid;
+                    console.log(url);
+                    window.location.href = url;
+                    break;
+                default:
+                    break;
+            }
+        }
+    </script>
+</block>

@@ -1,0 +1,23 @@
+<extend name="Base/base" />
+
+<block name="main">
+    <a href='{:U($back_url)}' style="float:left">Back </a>
+    <table class="table">
+            <caption style="font-size:38px">订单详情</caption>
+            <thead>
+                <tr>
+                    <th>字段</th>
+                    <th>值</th>
+                </tr>
+            </thead>
+            <tbody>
+            <foreach name='info' item='value'>
+                <tr>
+                    <td>{$key}</td>
+                    <td>{$value}</td>
+                </tr>
+            </foreach>
+
+            </tbody>
+     </table>
+</block>

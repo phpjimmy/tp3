@@ -1,0 +1,28 @@
+<extend name="Base/base" />
+ <block name="menu"> 
+     <include file="Index/menu" /> 
+ </block>
+
+
+<block name="main">
+    <a href='{:U($back_url)}' style="float:left">Back </a>
+    <a href='{:U($info_modify_url,"channelid=".$info["channelid"])}'  style="float:right">Modify </a>
+    <table class="table">
+	<caption style="font-size:38px">栏目详情</caption>
+	<thead>
+	    <tr>
+		<th>字段</th>
+		<th>值</th>
+	    </tr>
+	</thead>
+	<tbody>
+	<foreach name='info' item='value'>
+	    <tr>
+		<td>{$key}</td>
+		<td>{$value}</td>
+	    </tr>
+	</foreach>
+
+	</tbody>
+    </table>
+</block>

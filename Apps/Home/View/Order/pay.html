@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>支付</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        
+        <ul>
+            <li>名称:{$info['name']}</li>
+            <!--<li>订单id:{$info['orderid']}</li>-->
+            <li>价格:{$info['price']}</li>
+            <li>商品数量:{$info['goodsnum']}</li>
+            <li>订单金额:{$info['ordermoney']}</li>
+            <li>收货地址:{$info['addr']}</li>
+            <li><a href="{:U('Order/dopay?orderid='.$info['orderid'])}"><button>确认支付</button></a></li>
+        </ul>
+        
+    </body>
+</html>

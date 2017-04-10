@@ -1,0 +1,34 @@
+<extend name="Base/base" />
+<block name="main">
+   <a href='{:U($back_url)}'>Back </a>
+   <table class="table">
+	<caption style="font-size:38px">搜索列表</caption>
+	<thead>
+	    <tr>
+		<th>名称</th>
+		<th>品牌</th>
+		<th>分类</th>
+		<th>价格</th>
+		<th>上下架</th>
+		<th>描述</th>
+	    </tr>
+	</thead>
+        
+	<tbody>
+        <form>
+            <foreach name='info' item='value'>
+                <tr>
+                    <td>{$value[name]}</td>
+                    <td>{$value[brandid]}</td>
+                    <td>{$value[channelid]}</td>
+                    <td>{$value[price]/10}</td>
+
+                    <td><a href='#'>{$value[checkflag]?上架:下架}</a></td>
+                    <td>{$value[note]}</td>
+                </tr>
+            </foreach>
+        </form>
+	</tbody>
+   </table>
+</block>
+

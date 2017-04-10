@@ -1,0 +1,37 @@
+<extend name="Base/base" />
+<block name="main">
+
+    <table class="table" >
+            <caption style="font-size:38px">订单列表</caption>
+            <thead>
+                <tr>
+                    <th>id</th>
+                    <th>userid</th>
+                    <th>shopid</th>
+                    <th>订单金额</th>
+                    <th>订单状态</th>
+                    <th>订单评价</th>
+                    <th>地址</th>
+                    <th>详情</th>
+                    <th>申请退款</th>
+                </tr>
+            </thead>
+
+            <tbody>
+            <foreach name='list' item='info'>
+                <tr>
+                    <td>{$info[id]}</td>
+                    <td>{$info[userid]}</td>
+                    <td>{$info[shopid]}</td>
+                    <td>{$info[ordermoney]}</td>
+                    <td>{$info[orderstatus]}</td>
+                    <td>{$info[commetfalg]}</td>
+                    <td>{$info[addr]}</td>
+                    <td><a href='{:U($list_info_url,'id='.$info[id])}'>订单详情</a></td>
+                    <td><a href='{:U($list_refund_url,'id='.$info[id])}'>申请退款</a></td>
+                </tr>
+            </foreach>
+            </tbody>
+
+      </table>
+</block>

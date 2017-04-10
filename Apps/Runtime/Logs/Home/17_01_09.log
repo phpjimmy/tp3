@@ -1,0 +1,1112 @@
+[ 2017-01-09T09:06:11+08:00 ] ::1 /test/TS2/index.php/home/login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: last_login_id D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\e50ddc842724ce24e7f58b3255c38ca7.php 第 12 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-09T09:06:11+08:00 ] ::1 /test/TS2/index.php/Home/Login/verify/k/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-09T09:06:14+08:00 ] ::1 /test/TS2/index.php/home/login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: last_login_id D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\e50ddc842724ce24e7f58b3255c38ca7.php 第 12 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-09T09:06:14+08:00 ] ::1 /test/TS2/index.php/Home/Login/verify/k/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-09T09:06:15+08:00 ] ::1 /test/TS2/index.php/home/login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: last_login_id D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\e50ddc842724ce24e7f58b3255c38ca7.php 第 12 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-09T09:06:15+08:00 ] ::1 /test/TS2/index.php/Home/Login/verify/k/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-09T09:06:30+08:00 ] ::1 /test/TS2/index.php/Home/Login/login.html?loginid=lisi&password=456789&verify=xu53a&src=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `tb_user` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `tb_user` WHERE ( loginid='lisi' AND status=0 )  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-09T09:06:33+08:00 ] ::1 /test/TS2/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-01-09T09:06:33+08:00 ] ::1 /test/TS2/index.php/Home/Goods/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `tb_goods` [ RunTime:0.0070s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tb_goods` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `tb_goods` LIMIT 0,5   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Apps/Home/View/Base/footer.html): failed to open stream: No such file or directory D:\wamp\apache2\htdocs\test\TS2\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: title D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 5 行.
+NOTIC: [8] Undefined variable: menu_list D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 62 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 154 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 155 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 160 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 161 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 162 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 163 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 165 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 166 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 154 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 155 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 160 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 161 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 162 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 163 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 165 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 166 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 154 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 155 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 160 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 161 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 162 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 163 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 165 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 166 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 154 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 155 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 160 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 161 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 162 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 163 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 165 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 166 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 154 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 155 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 160 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 161 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 162 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 163 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 165 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 166 行.
+NOTIC: [8] Array to string conversion D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 176 行.
+NOTIC: [8] Array to string conversion D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 215 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-09T09:10:17+08:00 ] ::1 /test/TS2/index.php/home/login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: last_login_id D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\e50ddc842724ce24e7f58b3255c38ca7.php 第 12 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-09T09:10:18+08:00 ] ::1 /test/TS2/index.php/Home/Login/verify/k/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-09T11:05:51+08:00 ] ::1 /test/TS2/index.php/Home/Goods/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tb_goods` [ RunTime:0.0070s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tb_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `tb_goods` LIMIT 0,5   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Apps/Home/View/Base/footer.html): failed to open stream: No such file or directory D:\wamp\apache2\htdocs\test\TS2\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: title D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 5 行.
+NOTIC: [8] Undefined variable: menu_list D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 62 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 154 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 155 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 160 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 161 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 162 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 163 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 165 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 166 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 154 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 155 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 160 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 161 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 162 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 163 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 165 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 166 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 154 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 155 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 160 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 161 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 162 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 163 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 165 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 166 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 154 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 155 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 160 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 161 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 162 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 163 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 165 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 166 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 154 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 155 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 160 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 161 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 162 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 163 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 165 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 166 行.
+NOTIC: [8] Array to string conversion D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 176 行.
+NOTIC: [8] Array to string conversion D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 215 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-09T13:23:57+08:00 ] ::1 /test/TS2/index.php/Home/Goods/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `tb_goods` [ RunTime:0.0080s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tb_goods` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `tb_goods` LIMIT 0,5   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Apps/Home/View/Base/footer.html): failed to open stream: No such file or directory D:\wamp\apache2\htdocs\test\TS2\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: title D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 5 行.
+NOTIC: [8] Undefined variable: menu_list D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 62 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 154 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 155 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 160 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 161 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 162 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 163 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 165 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 166 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 154 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 155 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 160 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 161 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 162 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 163 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 165 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 166 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 154 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 155 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 160 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 161 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 162 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 163 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 165 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 166 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 154 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 155 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 160 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 161 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 162 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 163 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 165 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 166 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 154 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 155 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 160 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 161 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 162 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 163 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 165 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 166 行.
+NOTIC: [8] Array to string conversion D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 176 行.
+NOTIC: [8] Array to string conversion D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 215 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-09T13:23:58+08:00 ] ::1 /test/TS2/index.php/Home/Goods/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `tb_goods` [ RunTime:0.0090s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tb_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `tb_goods` LIMIT 0,5   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Apps/Home/View/Base/footer.html): failed to open stream: No such file or directory D:\wamp\apache2\htdocs\test\TS2\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: title D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 5 行.
+NOTIC: [8] Undefined variable: menu_list D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 62 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 154 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 155 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 160 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 161 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 162 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 163 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 165 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 166 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 154 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 155 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 160 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 161 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 162 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 163 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 165 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 166 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 154 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 155 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 160 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 161 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 162 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 163 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 165 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 166 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 154 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 155 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 160 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 161 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 162 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 163 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 165 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 166 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 154 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 155 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 160 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 161 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 162 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 163 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 165 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 166 行.
+NOTIC: [8] Array to string conversion D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 176 行.
+NOTIC: [8] Array to string conversion D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 215 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-09T13:32:33+08:00 ] ::1 /test/TS2/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-09T13:32:44+08:00 ] ::1 /test/TS2/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: last_login_id D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\e50ddc842724ce24e7f58b3255c38ca7.php 第 12 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-09T13:32:44+08:00 ] ::1 /test/TS2/index.php/Home/Login/verify/k/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-09T13:32:52+08:00 ] ::1 /test/TS2/index.php/Home/Goods/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `tb_goods` [ RunTime:0.0070s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Apps/Home/View/Base/footer.html): failed to open stream: No such file or directory D:\wamp\apache2\htdocs\test\TS2\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: title D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\f06be6b06385eab10b94a334e23e0ab2.php 第 5 行.
+NOTIC: [8] Undefined variable: menu_list D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\f06be6b06385eab10b94a334e23e0ab2.php 第 62 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-09T13:32:56+08:00 ] ::1 /test/TS2/index.php/Home/Goods/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `tb_goods` [ RunTime:0.0080s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tb_goods` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `tb_goods` LIMIT 0,5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Apps/Home/View/Base/footer.html): failed to open stream: No such file or directory D:\wamp\apache2\htdocs\test\TS2\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: title D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 5 行.
+NOTIC: [8] Undefined variable: menu_list D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 62 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 154 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 155 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 160 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 161 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 162 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 163 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 165 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 166 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 154 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 155 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 160 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 161 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 162 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 163 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 165 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 166 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 154 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 155 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 160 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 161 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 162 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 163 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 165 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 166 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 154 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 155 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 160 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 161 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 162 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 163 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 165 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 166 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 154 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 155 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 160 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 161 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 162 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 163 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 165 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 166 行.
+NOTIC: [8] Array to string conversion D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 176 行.
+NOTIC: [8] Array to string conversion D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 215 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-09T13:33:00+08:00 ] ::1 /test/TS2/index.php/Home/Order/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-09T13:33:00+08:00 ] ::1 /test/TS2/index.php/Home/Order/orderList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `tb_order` [ RunTime:0.0060s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tb_order` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `tb_order` WHERE ( status=0 AND userid=1 ) LIMIT 0,4   [ RunTime:0.0050s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Apps/Home/View/Base/footer.html): failed to open stream: No such file or directory D:\wamp\apache2\htdocs\test\TS2\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: title D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\d2543e9a3fe60d66683b08ff728501b4.php 第 5 行.
+NOTIC: [8] Undefined variable: menu_list D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\d2543e9a3fe60d66683b08ff728501b4.php 第 62 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\d2543e9a3fe60d66683b08ff728501b4.php 第 156 行.
+NOTIC: [8] Use of undefined constant note - assumed 'note' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\d2543e9a3fe60d66683b08ff728501b4.php 第 157 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\d2543e9a3fe60d66683b08ff728501b4.php 第 168 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\d2543e9a3fe60d66683b08ff728501b4.php 第 179 行.
+NOTIC: [8] Undefined variable: list_refund_url D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\d2543e9a3fe60d66683b08ff728501b4.php 第 180 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\d2543e9a3fe60d66683b08ff728501b4.php 第 180 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\d2543e9a3fe60d66683b08ff728501b4.php 第 156 行.
+NOTIC: [8] Use of undefined constant note - assumed 'note' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\d2543e9a3fe60d66683b08ff728501b4.php 第 157 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\d2543e9a3fe60d66683b08ff728501b4.php 第 168 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\d2543e9a3fe60d66683b08ff728501b4.php 第 179 行.
+NOTIC: [8] Undefined variable: list_refund_url D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\d2543e9a3fe60d66683b08ff728501b4.php 第 180 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\d2543e9a3fe60d66683b08ff728501b4.php 第 180 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\d2543e9a3fe60d66683b08ff728501b4.php 第 156 行.
+NOTIC: [8] Use of undefined constant note - assumed 'note' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\d2543e9a3fe60d66683b08ff728501b4.php 第 157 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\d2543e9a3fe60d66683b08ff728501b4.php 第 168 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\d2543e9a3fe60d66683b08ff728501b4.php 第 179 行.
+NOTIC: [8] Undefined variable: list_refund_url D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\d2543e9a3fe60d66683b08ff728501b4.php 第 180 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\d2543e9a3fe60d66683b08ff728501b4.php 第 180 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-01-09T13:33:04+08:00 ] ::1 /test/TS2/index.php/Home/Order/info/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `tb_order` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `tb_order` WHERE `id` = '1' LIMIT 1   [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Apps/Home/View/Base/footer.html): failed to open stream: No such file or directory D:\wamp\apache2\htdocs\test\TS2\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: title D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\566e9bcec2991dcb7a5b34ed58403f93.php 第 5 行.
+NOTIC: [8] Undefined variable: menu_list D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\566e9bcec2991dcb7a5b34ed58403f93.php 第 62 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-09T13:33:12+08:00 ] ::1 /test/TS2/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-09T13:33:12+08:00 ] ::1 /test/TS2/index.php/Home/Goods/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `tb_goods` [ RunTime:0.0060s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tb_goods` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `tb_goods` LIMIT 0,5   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Apps/Home/View/Base/footer.html): failed to open stream: No such file or directory D:\wamp\apache2\htdocs\test\TS2\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: title D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 5 行.
+NOTIC: [8] Undefined variable: menu_list D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 62 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 154 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 155 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 160 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 161 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 162 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 163 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 165 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 166 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 154 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 155 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 160 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 161 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 162 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 163 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 165 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 166 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 154 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 155 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 160 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 161 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 162 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 163 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 165 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 166 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 154 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 155 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 160 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 161 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 162 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 163 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 165 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 166 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 154 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 155 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 160 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 161 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 162 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 163 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 165 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 166 行.
+NOTIC: [8] Array to string conversion D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 176 行.
+NOTIC: [8] Array to string conversion D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 215 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-09T13:36:03+08:00 ] ::1 /test/TS2/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-09T13:36:03+08:00 ] ::1 /test/TS2/index.php/Home/Goods/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `tb_goods` [ RunTime:0.0060s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tb_goods` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `tb_goods` LIMIT 0,5   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Apps/Home/View/Base/footer.html): failed to open stream: No such file or directory D:\wamp\apache2\htdocs\test\TS2\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: title D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 5 行.
+NOTIC: [8] Undefined variable: menu_list D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 62 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 154 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 155 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 160 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 161 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 162 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 163 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 165 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 166 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 154 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 155 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 160 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 161 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 162 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 163 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 165 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 166 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 154 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 155 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 160 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 161 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 162 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 163 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 165 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 166 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 154 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 155 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 160 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 161 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 162 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 163 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 165 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 166 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 154 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 155 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 160 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 161 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 162 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 163 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 165 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 166 行.
+NOTIC: [8] Array to string conversion D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 176 行.
+NOTIC: [8] Array to string conversion D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\9f37a52cf12560a23b6a2158d9c39780.php 第 215 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-09T13:48:39+08:00 ] ::1 /test/TS2/index.php/Home/base/base
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Apps/Home/View/Base/footer.html): failed to open stream: No such file or directory D:\wamp\apache2\htdocs\test\TS2\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined variable: title D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\6728d0bc4441b36d29d39f94172cda18.php 第 5 行.
+NOTIC: [8] Undefined variable: menu_list D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\6728d0bc4441b36d29d39f94172cda18.php 第 62 行.
+NOTIC: [8] Undefined variable: list_add_url D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\6728d0bc4441b36d29d39f94172cda18.php 第 139 行.
+NOTIC: [8] Undefined variable: list_search_url D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\6728d0bc4441b36d29d39f94172cda18.php 第 140 行.
+NOTIC: [8] Undefined variable: list D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\6728d0bc4441b36d29d39f94172cda18.php 第 156 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-09T13:49:11+08:00 ] ::1 /test/TS2/index.php/Home/base/base
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Apps/Home/View/Base/footer.html): failed to open stream: No such file or directory D:\wamp\apache2\htdocs\test\TS2\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: menu_list D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\6728d0bc4441b36d29d39f94172cda18.php 第 62 行.
+NOTIC: [8] Undefined variable: list_add_url D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\6728d0bc4441b36d29d39f94172cda18.php 第 139 行.
+NOTIC: [8] Undefined variable: list_search_url D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\6728d0bc4441b36d29d39f94172cda18.php 第 140 行.
+NOTIC: [8] Undefined variable: list D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\6728d0bc4441b36d29d39f94172cda18.php 第 156 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-09T13:55:30+08:00 ] ::1 /test/TS2/index.php/Home/base/base
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: menu_list D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\6728d0bc4441b36d29d39f94172cda18.php 第 62 行.
+NOTIC: [8] Undefined variable: list_add_url D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\6728d0bc4441b36d29d39f94172cda18.php 第 139 行.
+NOTIC: [8] Undefined variable: list_search_url D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\6728d0bc4441b36d29d39f94172cda18.php 第 140 行.
+NOTIC: [8] Undefined variable: list D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\6728d0bc4441b36d29d39f94172cda18.php 第 156 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-09T13:55:32+08:00 ] ::1 /test/TS2/index.php/Home/base/base
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: menu_list D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\6728d0bc4441b36d29d39f94172cda18.php 第 62 行.
+NOTIC: [8] Undefined variable: list_add_url D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\6728d0bc4441b36d29d39f94172cda18.php 第 139 行.
+NOTIC: [8] Undefined variable: list_search_url D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\6728d0bc4441b36d29d39f94172cda18.php 第 140 行.
+NOTIC: [8] Undefined variable: list D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\6728d0bc4441b36d29d39f94172cda18.php 第 156 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-09T13:55:35+08:00 ] ::1 /test/TS2/index.php/Home/base/base
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: menu_list D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\6728d0bc4441b36d29d39f94172cda18.php 第 62 行.
+NOTIC: [8] Undefined variable: list_add_url D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\6728d0bc4441b36d29d39f94172cda18.php 第 139 行.
+NOTIC: [8] Undefined variable: list_search_url D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\6728d0bc4441b36d29d39f94172cda18.php 第 140 行.
+NOTIC: [8] Undefined variable: list D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\6728d0bc4441b36d29d39f94172cda18.php 第 156 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-09T13:55:36+08:00 ] ::1 /test/TS2/index.php/Home/base/base
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: menu_list D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\6728d0bc4441b36d29d39f94172cda18.php 第 62 行.
+NOTIC: [8] Undefined variable: list_add_url D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\6728d0bc4441b36d29d39f94172cda18.php 第 139 行.
+NOTIC: [8] Undefined variable: list_search_url D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\6728d0bc4441b36d29d39f94172cda18.php 第 140 行.
+NOTIC: [8] Undefined variable: list D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\6728d0bc4441b36d29d39f94172cda18.php 第 156 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-09T13:55:39+08:00 ] ::1 /test/TS2/index.php/Home/Base/base.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: menu_list D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\6728d0bc4441b36d29d39f94172cda18.php 第 62 行.
+NOTIC: [8] Undefined variable: list_add_url D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\6728d0bc4441b36d29d39f94172cda18.php 第 139 行.
+NOTIC: [8] Undefined variable: list_search_url D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\6728d0bc4441b36d29d39f94172cda18.php 第 140 行.
+NOTIC: [8] Undefined variable: list D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\6728d0bc4441b36d29d39f94172cda18.php 第 156 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-09T13:55:41+08:00 ] ::1 /test/TS2/index.php/Home/Base/base.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: menu_list D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\6728d0bc4441b36d29d39f94172cda18.php 第 62 行.
+NOTIC: [8] Undefined variable: list_add_url D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\6728d0bc4441b36d29d39f94172cda18.php 第 139 行.
+NOTIC: [8] Undefined variable: list_search_url D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\6728d0bc4441b36d29d39f94172cda18.php 第 140 行.
+NOTIC: [8] Undefined variable: list D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\6728d0bc4441b36d29d39f94172cda18.php 第 156 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-09T13:56:10+08:00 ] ::1 /test/TS2/index.php/Home/Base/base.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Apps/Home/View/Base/footer.html): failed to open stream: No such file or directory D:\wamp\apache2\htdocs\test\TS2\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: menu_list D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\6728d0bc4441b36d29d39f94172cda18.php 第 62 行.
+NOTIC: [8] Undefined variable: list_add_url D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\6728d0bc4441b36d29d39f94172cda18.php 第 139 行.
+NOTIC: [8] Undefined variable: list_search_url D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\6728d0bc4441b36d29d39f94172cda18.php 第 140 行.
+NOTIC: [8] Undefined variable: list D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\6728d0bc4441b36d29d39f94172cda18.php 第 156 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-09T14:00:37+08:00 ] ::1 /test/TS2/index.php/Home/Base/base.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Apps/Home/View/Base/footer.html): failed to open stream: No such file or directory D:\wamp\apache2\htdocs\test\TS2\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined variable: menu_list D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\6728d0bc4441b36d29d39f94172cda18.php 第 62 行.
+NOTIC: [8] Undefined variable: list_add_url D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\6728d0bc4441b36d29d39f94172cda18.php 第 136 行.
+NOTIC: [8] Undefined variable: list_search_url D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\6728d0bc4441b36d29d39f94172cda18.php 第 137 行.
+NOTIC: [8] Undefined variable: list D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\6728d0bc4441b36d29d39f94172cda18.php 第 151 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-09T15:07:24+08:00 ] ::1 /test/TS2/index.php/home/login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: last_login_id D:\wamp\apache2\htdocs\test\TS2\Apps\Runtime\Cache\Home\e50ddc842724ce24e7f58b3255c38ca7.php 第 12 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-09T15:07:24+08:00 ] ::1 /test/TS2/index.php/Home/Login/verify/k/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+

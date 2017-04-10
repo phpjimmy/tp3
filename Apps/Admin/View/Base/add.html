@@ -1,0 +1,23 @@
+<a href='{:U($back_url)}'>Back </a>
+<table class="table">
+	<caption style="font-size:38px">栏目添加</caption>
+	<thead>
+	    <tr>
+		<th>字段</th>
+		<th>值</th>
+	    </tr>
+	</thead>
+        
+	<tbody>
+        <form action='{:U($do_add_url)}' method='POST'>
+            <foreach name='info' item='value'>
+                <tr>
+                    <td>{$key}</td>
+                    <td><input type='text' name="{$key}" placeholder='{$value}'></input></td>
+                </tr>
+            </foreach>
+            <tr><td colspan="2"><input type='submit' value='提交'></input></td></tr>
+        </form>
+	</tbody>
+        
+ </table>
